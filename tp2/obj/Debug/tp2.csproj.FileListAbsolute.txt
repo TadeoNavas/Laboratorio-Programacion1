@@ -8,3 +8,13 @@ C:\Users\Incluit\Downloads\LaboratorioProgramacion1-master\LaboratorioProgramaci
 C:\Users\Incluit\Downloads\LaboratorioProgramacion1-master\LaboratorioProgramacion1-master\trabajo1\bin\Debug\trabajo1.exe.config
 C:\Users\Incluit\Downloads\LaboratorioProgramacion1-master\LaboratorioProgramacion1-master\trabajo1\bin\Debug\trabajo1.exe
 C:\Users\Incluit\Downloads\LaboratorioProgramacion1-master\LaboratorioProgramacion1-master\trabajo1\bin\Debug\trabajo1.pdb
+C:\Users\Incluit\workspace\ISSD\LP1\tp2\bin\Debug\trabajo1.exe.config
+C:\Users\Incluit\workspace\ISSD\LP1\tp2\bin\Debug\trabajo1.exe
+C:\Users\Incluit\workspace\ISSD\LP1\tp2\bin\Debug\trabajo1.pdb
+C:\Users\Incluit\workspace\ISSD\LP1\tp2\obj\Debug\tp2.csproj.AssemblyReference.cache
+C:\Users\Incluit\workspace\ISSD\LP1\tp2\obj\Debug\tp2.Form1.resources
+C:\Users\Incluit\workspace\ISSD\LP1\tp2\obj\Debug\trabajo1.Properties.Resources.resources
+C:\Users\Incluit\workspace\ISSD\LP1\tp2\obj\Debug\tp2.csproj.GenerateResource.cache
+C:\Users\Incluit\workspace\ISSD\LP1\tp2\obj\Debug\tp2.csproj.CoreCompileInputs.cache
+C:\Users\Incluit\workspace\ISSD\LP1\tp2\obj\Debug\trabajo1.exe
+C:\Users\Incluit\workspace\ISSD\LP1\tp2\obj\Debug\trabajo1.pdb
